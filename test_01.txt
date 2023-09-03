@@ -1,0 +1,2 @@
+This is test file created on local and transferred to remote using fabric
+

@@ -6,7 +6,7 @@ c.run("dmesg > dmesg.txt")
 c.run("tar -cvzf dmesg.tar.gz dmesg.txt")
 c.get("dmesg.tar.gz")
 #c.run("sudo systemctl reboot")
-
+c.sudo("ls")
 
 
 

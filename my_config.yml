@@ -1,0 +1,7 @@
+setup:
+    host: "192.168.29.205"
+    user: "mg"
+    passwd: "mg"
+    sudo_user: "mg"
+    sudo_pwd: "mg"
+

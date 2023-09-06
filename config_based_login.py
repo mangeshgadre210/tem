@@ -10,12 +10,12 @@ with open("my_config.yml", "r") as ymlfile:
 for section in cfg:
     print(section)
     
-print(cfg["setup"])
-print(cfg["setup"]["host"])
-print(cfg["setup"]["user"])
-print(cfg["setup"]["passwd"])
-print(cfg["setup"]["sudo_user"])
-print(cfg["setup"]["sudo_pwd"])
+#print(cfg["setup"])
+#print(cfg["setup"]["host"])
+#print(cfg["setup"]["user"])
+#print(cfg["setup"]["passwd"])
+#print(cfg["setup"]["sudo_user"])
+#print(cfg["setup"]["sudo_pwd"])
 
 #import logging
 #logging.basicConfig(level=logging.DEBUG)
